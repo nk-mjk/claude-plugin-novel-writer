@@ -1,4 +1,4 @@
-![novel-writer — 멀티 에이전트 소설 집필 플러그인](plugin-novel-writer-16-9.png)
+![novel-writer — 멀티 에이전트 소설 집필 플러그인](plugin-novel-writer-info.png)
 
 # novel-writer
 
